@@ -1,0 +1,72 @@
+Script started on Tue Sep 28 21:30:06 2021
+Restored session: Tue 28 Sep 2021 21:19:30 EDT
+[1m[7m%[27m[1m[0m                                                                                                                         ]7;file://Rishabhs-Mac-mini.local/Users/rishabhjain/Documents/GitHub/CS3357-asn1/app[0m[27m[24m[Jrishabhjain@Rishabhs-Mac-mini app % [K[?2004hsserver    s  ppython3 server.py[?2004l
+Will wait for client messages at port 63066
+Waiting for incoming client message ...
+Message received from client address: ('127.0.0.1', 61595)
+Message:
+     1	This is the first line
+Waiting for incoming client message ...
+Message received from client address: ('127.0.0.1', 61595)
+Message:
+     4	This is the fourth line
+Waiting for incoming client message ...
+Message received from client address: ('127.0.0.1', 61595)
+Message:
+     5	This is the fifth line
+Waiting for incoming client message ...
+Message received from client address: ('127.0.0.1', 61595)
+Message:
+     6	This is the sixth line
+Waiting for incoming client message ...
+Message received from client address: ('127.0.0.1', 61595)
+Message:
+     7	This is the seventh line
+Waiting for incoming client message ...
+Message received from client address: ('127.0.0.1', 61595)
+Message:
+     8	This is the eight line
+Waiting for incoming client message ...
+Message received from client address: ('127.0.0.1', 61595)
+Message:
+     9	This is the ninth line
+Waiting for incoming client message ...
+Message received from client address: ('127.0.0.1', 61595)
+Message:
+    10	This is the tenth line
+Waiting for incoming client message ...
+Message received from client address: ('127.0.0.1', 61595)
+Message:
+    11	This is the eleventh line
+Waiting for incoming client message ...
+Message received from client address: ('127.0.0.1', 61595)
+Message:
+    12	This is the twelfth line
+Waiting for incoming client message ...
+Message received from client address: ('127.0.0.1', 61595)
+Message:
+    14	This is the fourteenth line
+Waiting for incoming client message ...
+Message received from client address: ('127.0.0.1', 61595)
+Message:
+    15	This is the fifteenth line
+Waiting for incoming client message ...
+Message received from client address: ('127.0.0.1', 61595)
+Message:
+    13	This is the thirteenth line
+Waiting for incoming client message ...
+Message received from client address: ('127.0.0.1', 61595)
+Message:
+     3	This is the third line
+Waiting for incoming client message ...
+Message received from client address: ('127.0.0.1', 61595)
+Message:
+     2	This is the second line
+Waiting for incoming client message ...
+^CInterrupt received, shutting down ...
+[1m[7m%[27m[1m[0m                                                                                                                         ]7;file://Rishabhs-Mac-mini.local/Users/rishabhjain/Documents/GitHub/CS3357-asn1/app[0m[27m[24m[Jrishabhjain@Rishabhs-Mac-mini app % [K[?2004heexit[?2004l
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Tue Sep 28 21:33:05 2021

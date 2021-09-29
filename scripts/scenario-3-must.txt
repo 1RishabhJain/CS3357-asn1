@@ -1,0 +1,58 @@
+Script started on Tue Sep 28 21:30:32 2021
+Restored session: Tue 28 Sep 2021 21:19:19 EDT
+[1m[7m%[27m[1m[0m                                                                                                                   ]7;file://Rishabhs-Mac-mini.local/Users/rishabhjain/Documents/GitHub/CS3357-asn1/must[0m[27m[24m[Jrishabhjain@Rishabhs-Mac-mini must % [K[?2004h../must.out -h localhost -f 63066 -v -d 30 -t 0.5-4[?2004l
+MUST options:
+  Forwarding to port 63066 on host localhost
+  Receiving packets on port to be selected
+  Maximum packet size 65536
+  Random seed 1632879122
+  Delay probability 30.000000
+  Delay time range 0.500000 to 4.000000 seconds
+  Loss probability 0.000000
+  Error probability 0.000000
+To forward data, send to port 49527 on host Rishabhs-Mac-mini.local
+Ports created:
+  Forwarding port 49527 on Rishabhs-Mac-mini.local
+  Returning port 61595 on Rishabhs-Mac-mini.local
+  Copying port 63167 on Rishabhs-Mac-mini.local
+Beginning forwarding:
+Packet 1 received:
+Return thread spawned.
+  Packet forwarded
+Packet 2 received:
+  Delayed 3.840454 seconds
+Packet 3 received:
+  Delayed 1.457535 seconds
+Packet 4 received:
+  Packet forwarded
+Packet 5 received:
+  Packet forwarded
+Packet 6 received:
+  Packet forwarded
+Packet 7 received:
+  Packet forwarded
+Packet 8 received:
+  Packet forwarded
+Packet 9 received:
+  Packet forwarded
+Packet 10 received:
+  Packet forwarded
+Packet 11 received:
+  Packet forwarded
+Packet 12 received:
+  Packet forwarded
+Packet 13 received:
+  Delayed 1.314035 seconds
+Packet 14 received:
+  Packet forwarded
+Packet 15 received:
+  Packet forwarded
+Delayed packet 13 forwarded
+Delayed packet 3 forwarded
+Delayed packet 2 forwarded
+^C[1m[7m%[27m[1m[0m                                                                                                                   ]7;file://Rishabhs-Mac-mini.local/Users/rishabhjain/Documents/GitHub/CS3357-asn1/must[0m[27m[24m[Jrishabhjain@Rishabhs-Mac-mini must % [K[?2004heexit[?2004l
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Tue Sep 28 21:33:02 2021

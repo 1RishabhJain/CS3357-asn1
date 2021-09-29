@@ -1,0 +1,9 @@
+Script started on Tue Sep 28 21:30:19 2021
+Restored session: Tue 28 Sep 2021 21:19:34 EDT
+[1m[7m%[27m[1m[0m                                                                                                                         ]7;file://Rishabhs-Mac-mini.local/Users/rishabhjain/Documents/GitHub/CS3357-asn1/app[0m[27m[24m[Jrishabhjain@Rishabhs-Mac-mini app % [K[?2004hccat -n file.txt | python3 client.py localhost 49527[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                         ]7;file://Rishabhs-Mac-mini.local/Users/rishabhjain/Documents/GitHub/CS3357-asn1/app[0m[27m[24m[Jrishabhjain@Rishabhs-Mac-mini app % [K[?2004heexit[?2004l
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Tue Sep 28 21:33:07 2021

@@ -1,0 +1,56 @@
+Script started on Tue Sep 28 20:31:51 2021
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Rishabhs-Mac-mini.local/Users/rishabhjain/Documents/GitHub/CS3357-asn1/must[0m[27m[24m[Jrishabhjain@Rishabhs-Mac-mini must % [K[?2004hggcc must.ou  c -o must.out[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Rishabhs-Mac-mini.local/Users/rishabhjain/Documents/GitHub/CS3357-asn1/must[0m[27m[24m[Jrishabhjain@Rishabhs-Mac-mini must % [K[?2004h../must.out -h localhost -f 6313 23 -v -l 50[?2004l
+MUST options:
+  Forwarding to port 63123 on host localhost
+  Receiving packets on port to be selected
+  Maximum packet size 65536
+  Random seed 1632875974
+  Delay probability 0.000000
+  Delay time range 0.500000 to 10.000000 seconds
+  Loss probability 50.000000
+  Error probability 0.000000
+To forward data, send to port 63510 on host Rishabhs-Mac-mini.local
+Ports created:
+  Forwarding port 63510 on Rishabhs-Mac-mini.local
+  Returning port 58019 on Rishabhs-Mac-mini.local
+  Copying port 56076 on Rishabhs-Mac-mini.local
+Beginning forwarding:
+Packet 1 received:
+  Packet lost
+Return thread spawned.
+Packet 2 received:
+  Packet forwarded
+Packet 3 received:
+  Packet lost
+Packet 4 received:
+  Packet forwarded
+Packet 5 received:
+  Packet lost
+Packet 6 received:
+  Packet forwarded
+Packet 7 received:
+  Packet lost
+Packet 8 received:
+  Packet lost
+Packet 9 received:
+  Packet lost
+Packet 10 received:
+  Packet lost
+Packet 11 received:
+  Packet forwarded
+Packet 12 received:
+  Packet forwarded
+Packet 13 received:
+  Packet forwarded
+Packet 14 received:
+  Packet lost
+Packet 15 received:
+  Packet forwarded
+^C[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Rishabhs-Mac-mini.local/Users/rishabhjain/Documents/GitHub/CS3357-asn1/must[0m[27m[24m[Jrishabhjain@Rishabhs-Mac-mini must % [K[?2004heexit[?2004l
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Tue Sep 28 20:41:34 2021

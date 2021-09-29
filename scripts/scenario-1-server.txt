@@ -1,0 +1,39 @@
+Script started on Tue Sep 28 20:32:10 2021
+[1m[7m%[27m[1m[0m                                                                                                                            ]7;file://Rishabhs-Mac-mini.local/Users/rishabhjain/Documents/GitHub/CS3357-asn1/app[0m[27m[24m[Jrishabhjain@Rishabhs-Mac-mini app % [K[?2004hppython3 sr erver.py[?2004l
+Will wait for client messages at port 63123
+Waiting for incoming client message ...
+Message received from client address: ('127.0.0.1', 58019)
+Message:
+     2	This is the second line
+Waiting for incoming client message ...
+Message received from client address: ('127.0.0.1', 58019)
+Message:
+     4	This is the fourth line
+Waiting for incoming client message ...
+Message received from client address: ('127.0.0.1', 58019)
+Message:
+     6	This is the sixth line
+Waiting for incoming client message ...
+Message received from client address: ('127.0.0.1', 58019)
+Message:
+    11	This is the eleventh line
+Waiting for incoming client message ...
+Message received from client address: ('127.0.0.1', 58019)
+Message:
+    12	This is the twelfth line
+Waiting for incoming client message ...
+Message received from client address: ('127.0.0.1', 58019)
+Message:
+    13	This is the thirteenth line
+Waiting for incoming client message ...
+Message received from client address: ('127.0.0.1', 58019)
+Message:
+    15	This is the fifteenth line
+Waiting for incoming client message ...
+^CInterrupt received, shutting down ...
+[1m[7m%[27m[1m[0m                                                                                                                            ]7;file://Rishabhs-Mac-mini.local/Users/rishabhjain/Documents/GitHub/CS3357-asn1/app[0m[27m[24m[Jrishabhjain@Rishabhs-Mac-mini app % [K[?2004heexit[?2004l
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Tue Sep 28 20:41:32 2021
